@@ -1,0 +1,5 @@
+﻿  09_SumAdjacentEqualNumbers.cpp
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\09_SumAdjacentEqualNumbers\09_SumAdjacentEqualNumbers.cpp(49,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\09_SumAdjacentEqualNumbers\09_SumAdjacentEqualNumbers.cpp(82,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\09_SumAdjacentEqualNumbers\09_SumAdjacentEqualNumbers.cpp(80,6): warning C4101: 'leftNum': unreferenced local variable
+  09_SumAdjacentEqualNumbers.vcxproj -> C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\Debug\09_SumAdjacentEqualNumbers.exe

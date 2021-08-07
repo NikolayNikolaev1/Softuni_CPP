@@ -1,0 +1,5 @@
+﻿  07_PrintNameOfNumber.cpp
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\07_PrintNameOfNumber\07_PrintNameOfNumber.cpp(145): warning C4715: 'getSpecialDozensText': not all control paths return a value
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\07_PrintNameOfNumber\07_PrintNameOfNumber.cpp(120): warning C4715: 'getNumberText': not all control paths return a value
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\07_PrintNameOfNumber\07_PrintNameOfNumber.cpp(92): warning C4715: 'getDozensText': not all control paths return a value
+  07_PrintNameOfNumber.vcxproj -> C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\FunctionsArraysVectors\Debug\07_PrintNameOfNumber.exe
