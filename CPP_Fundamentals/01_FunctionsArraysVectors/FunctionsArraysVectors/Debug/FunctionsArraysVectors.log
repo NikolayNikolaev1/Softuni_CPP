@@ -1,0 +1,19 @@
+﻿  01_Operations.cpp
+  02_IndexOf.cpp
+  03_Remove.cpp
+  04_Noise.cpp
+  05_NoiseTestGenerator.cpp
+  06_TripplesOfLatinLetters.cpp
+  07_PrintNameOfNumber.cpp
+  08_MultiplyEvenSumByOddSum.cpp
+  09_SumAdjacentEqualNumbers.cpp
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\09_SumAdjacentEqualNumbers.cpp(48,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\09_SumAdjacentEqualNumbers.cpp(81,20): warning C4018: '<': signed/unsigned mismatch
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\09_SumAdjacentEqualNumbers.cpp(79,6): warning C4101: 'leftNum': unreferenced local variable
+  FunctionsArraysVectors.cpp
+  Generating Code...
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\07_PrintNameOfNumber.cpp(97): warning C4715: 'getDozensText': not all control paths return a value
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\07_PrintNameOfNumber.cpp(125): warning C4715: 'getNumberText': not all control paths return a value
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\07_PrintNameOfNumber.cpp(150): warning C4715: 'getSpecialDozensText': not all control paths return a value
+C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\FunctionsArraysVectors\01_Operations.cpp(53): warning C4715: 'calculate': not all control paths return a value
+  FunctionsArraysVectors.vcxproj -> C:\code\repos\softuni\softuni_cpp\CPP_Fundamentals\01_FunctionsArraysVectors\Debug\FunctionsArraysVectors.exe
